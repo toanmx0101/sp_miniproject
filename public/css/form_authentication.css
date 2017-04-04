@@ -1,0 +1,67 @@
+#authentication #create-account_form {
+    width: 44%;
+    clear: none;
+    float: left;
+    margin: 0 3% 0 0;
+    background: url(../img/login-content-left.gif) right bottom no-repeat #ffffff;
+    border: 1px solid #E2DEDE;
+    padding: 5px 20px 53px 20px;
+    margin-top: 10px;
+}
+form.std fieldset {
+}
+form.std h3 {
+    margin: 0;
+    padding: 17px 5px 7px 0;
+    border-width: 0 0 1px 0;
+    border-style: solid;
+}
+#authentication #create-account_form h4, #authentication #login_form h4 {
+    height: 45px;
+    margin: 0;
+    padding: 15px 0 0 0;
+}
+#authentication #create-account_form h4 {
+    text-transform: none;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    color: #555;
+}
+form.std h4, form.std p {
+}
+#authentication #create-account_form p.text, #authentication #login_form p.text {
+    width: 220px;
+    padding: 15px 0 0 0;
+}
+form.std .text, form.std .password {
+    margin: 0;
+    padding: 15px 0 0 0;
+}
+#authentication #create-account_form label, #authentication #login_form label {
+    display: block;
+    clear: both;
+    text-align: left;
+    padding: 0 0 5px 0;
+}
+
+form.std .text input, form.std .password input {
+    width: 212px;
+    height: 15px;
+}
+form.std input[type="text"], form.std input[type="password"], form.std textarea {
+    padding: 12px;
+    background: #f1f1f1;
+    border: 1px solid #f1f1f1;
+    -moz-transition: background-color 0.6s ease;
+    -o-transition: background-color 0.6s ease;
+    -webkit-transition: background-color 0.6s ease;
+    -moz-transition: border-color 0.6s ease;
+    -o-transition: border-color 0.6s ease;
+    -webkit-transition: border-color 0.6s ease;
+}
+form.std .required sup {
+    vertical-align: top;
+    font: normal 13px "Tahoma";
+    color: #da0f00;
+}

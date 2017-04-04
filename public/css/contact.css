@@ -1,0 +1,81 @@
+#contact_form {
+    border: 1px solid #ddd;
+    padding: 0px 20px 20px 20px;
+    margin: 20px 0 0 0;
+}
+form.std fieldset {
+}
+#contact_form h3 {
+    padding: 17px 0 0 0;
+    border: none;
+}
+form.std h3 {
+    margin: 0;
+    padding: 17px 5px 7px 0;
+    border-width: 0 0 1px 0;
+    border-style: solid;
+}
+form.std .select {
+    margin: 0;
+    padding: 15px 0 0 0;
+}
+form.std .text label, form.std .password label, form.std .textarea label, form.std .select label, form.std .select span, form.std .radio span, form.std .checkbox span {
+    float: left;
+    text-align: right;
+    width: 150px;
+    padding: 4px 7px 0 0;
+    font: normal 12px "Arial";
+    color: #555;
+}
+form.std .select select {
+    width: 220px;
+    height: 23px;
+    padding: 2px;
+}
+form.std select {
+    padding: 3px;
+    background: #f1f1f1;
+    border: 1px solid #f1f1f1;
+    -moz-transition: background-color 0.6s ease;
+    -o-transition: background-color 0.6s ease;
+    -webkit-transition: background-color 0.6s ease;
+    -moz-transition: border-color 0.6s ease;
+    -o-transition: border-color 0.6s ease;
+    -webkit-transition: border-color 0.6s ease;
+}
+form.std .text, form.std .password {
+    margin: 0;
+    padding: 15px 0 0 0;
+}
+form.std h4, form.std p {
+}
+form.std .textarea {
+    margin: 0;
+    padding: 15px 0 0 0;
+}
+#contact_form textarea#message {
+    width: 400px !important;
+    height: 200px !important;
+}
+#contact_form textarea#message {
+    width: 400px !important;
+    height: 200px !important;
+}
+#contact-form .submit {
+    padding-top: 15px;
+}
+form.std p.submit {
+    margin: 0;
+    padding: 20px 0 0 157px;
+}
+form.std input[type="text"], form.std input[type="password"], form.std textarea {
+    padding: 3px;
+    background: #f1f1f1;
+    border: 1px solid #f1f1f1;
+    -moz-transition: background-color 0.6s ease;
+    -o-transition: background-color 0.6s ease;
+    -webkit-transition: background-color 0.6s ease;
+    -moz-transition: border-color 0.6s ease;
+    -o-transition: border-color 0.6s ease;
+    -webkit-transition: border-color 0.6s ease;
+}

@@ -1,0 +1,115 @@
+#primary_block #pb-left-column {
+    width: 519px;
+    float: left;
+    padding: 0 0 0 20px;
+}
+
+#buy_block {
+    margin: 20px 0 0 0;
+    border-width: 1px 0 0 0;
+    border-style: solid;
+}
+#buy_block div.price {
+    padding: 20px 0;
+    overflow: hidden;
+}
+#buy_block span.our_price_display {
+    height: 27px;
+    display: block;
+    float: left;
+}#buy_block span#our_price_display {
+    display: block;
+    float: left;
+    padding: 6px 0 0 0;
+    font-size: 14px;
+}
+#buy_block #exclusive {
+    float: right;
+    margin: 0;
+    padding: 10px;
+}
+#buy_block #quantity_wanted_p {
+    float: right;
+    padding: 0 10px 0 0;
+}
+#buy_block #quantity_wanted_p #quantity_wanted {
+    float: right;
+    padding: 5px;
+    text-align: center;
+}
+#buy_block #quantity_wanted_p label {
+    float: right;
+    padding: 6px 7px 0 0;
+    text-align: right;
+}
+#primary_block #pb-left-column h1 {
+    text-transform: none;
+    padding: 0;
+    background: none;
+    border: none;
+    margin-top: -7px;
+    font: normal 25px "Arial";
+    line-height: 32px;
+    color: #333;
+}
+#buy_block .other_options {
+    border-width: 1px 0 0 0;
+    border-style: solid;
+}
+#buy_block #other_prices, #buy_block #other_prices p, #buy_block #other_prices span {
+    font: 12px "Arial";
+}
+#buy_block #other_prices {
+    width: 50%;
+    float: left;
+    padding: 10px 0 0 0;
+}
+
+#buy_block #other_prices > p {
+    width: 100%;
+    min-height: 18px;
+    margin: 0;
+    padding: 13px 0 0 0;
+}
+
+#buy_block #pQuantityAvailable span {
+    font-weight: bold;
+    color: #333;
+}
+#buy_block #attributes {
+    width: 50%;
+    float: right;
+    padding: 10px 0 0 0;
+}
+.clearblock {
+    height: 0;
+    clear: both;
+    overflow: hidden;
+    font-size: 0;
+    line-height: 0;
+}
+#buy_block #attributes p {
+    margin: 0;
+    padding: 10px 0 0 0;
+    overflow: hidden;
+}
+#buy_block #attributes select {
+    width: 120px;
+    height: 21px;
+    float: right;
+    padding: 1px;
+}
+#buy_block #attributes label {
+    float: right;
+    padding: 3px 7px 0 0;
+    text-align: right;
+}
+#primary_block #short_description_block {
+    margin: 20px 0 0 0;
+    border-width: 1px 0 0 0;
+    border-style: solid;
+}
+#primary_block #short_description_content, #primary_block #short_description_content p {
+    margin: 17px 0 0 0;
+    padding: 0;
+}

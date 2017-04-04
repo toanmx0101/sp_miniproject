@@ -1,0 +1,25 @@
+table#cart_summary tr td.cart_quantity {
+    text-align: center;
+    width: 80px;
+    padding: 12px 7px;
+}
+table#cart_summary tr td.cart_quantity div#cart_quantity_button {
+    width: 34px;
+    float: left;
+}
+table#cart_summary tr td.cart_quantity a.cart_quantity_delete {
+    width: 18px;
+    height: 18px;
+    display: block;
+    float: left;
+    margin: 23px 0 0 3px;
+}
+table#cart_summary tr td.cart_quantity a {
+    height: 20px;
+    display: block;
+    float: right;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader() !important;
+}
+table#cart_summary tr td.cart_quantity a img {
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader() !important;
+}

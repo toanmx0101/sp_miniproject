@@ -1,0 +1,87 @@
+
+#primary_block {
+    margin: 20px 0 0 0;
+}
+#primary_block #pb-right-column {
+    width: 306px;
+    float: left;
+}
+#primary_block #image-block {
+    width: 304px;
+    height: 464px;
+    border-width: 1px;
+    border-style: solid;
+    position: relative;
+}
+#primary_block #image-block img#bigpic.jqzoom {
+    height: 464px;
+    cursor: crosshair;
+    position: relative;
+}
+#primary_block #image-block img#bigpic {
+    width: 304px;
+    height: 464px;
+    cursor: pointer;
+}
+
+#views_block {
+    width: 306px;
+    height: 82px;
+    margin: 10px 0 0 0;
+    position: relative;
+}
+#thumbs_list {
+    width: 266px;
+    height: 82px;
+    margin: 0 0 0 20px;
+    overflow: hidden;
+}
+#thumbs_list li.thumb_last {
+    margin: 0;
+}
+
+#thumbs_list li {
+    width: 82px;
+    height: 82px;
+    float: left;
+    margin: 0 10px 0 0;
+    cursor: pointer;
+}
+#thumbs_list li a {
+    display: block;
+    border-width: 1px;
+    border-style: solid;
+}
+#usefull_link_block {
+    margin: 10px 0 0 0;
+    clear: both;
+    padding: 9px 0 6px 20px;
+    overflow: hidden;
+    background: url(http://livedemo00.template-help.com/prestashop_39664/themes/theme396/img/gradient_light.png) 0 bottom repeat-x;
+    border-width: 1px;
+    border-style: solid;
+}
+#usefull_link_block li:first-child {
+    background: url(http://livedemo00.template-help.com/prestashop_39664/themes/theme396/img/mail-icon.png) 0px -1px no-repeat;
+}
+#usefull_link_block li.print {
+    background: url(http://livedemo00.template-help.com/prestashop_39664/themes/theme396/img/print.png) 0px 2px no-repeat;
+    padding-left: 18px;
+}
+#usefull_link_block li {
+    padding: 2px 0 0 23px;
+    background: url(http://livedemo00.template-help.com/prestashop_39664/themes/theme396/img/bullet_alt.png) 0 12px no-repeat;
+    float: left;
+    margin-right: 12px;
+    margin-bottom: 5px;
+}
+#usefull_link_block span.span_link:hover {
+    text-decoration: none;
+    color: #3698f3;
+}
+#usefull_link_block li a, #usefull_link_block span.span_link {
+    text-decoration: none;
+    color: #333;
+    cursor: pointer;
+}
+
